@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+# Visual output
+![image](https://github.com/user-attachments/assets/37049155-a577-4473-a78a-ab9aaff1b32e)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
