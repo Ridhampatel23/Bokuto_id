@@ -3,7 +3,7 @@
 A new Flutter project.
 
 # Visual output
-<img src = "https://github.com/user-attachments/assets/37049155-a577-4473-a78a-ab9aaff1b32e" wdith = "200">
+<img src = "https://github.com/user-attachments/assets/37049155-a577-4473-a78a-ab9aaff1b32e" width = "200">
 
 
 
